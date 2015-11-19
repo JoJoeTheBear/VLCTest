@@ -1,0 +1,17 @@
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\VLCTest.exe.config
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\VLCTest.exe
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\VLCTest.pdb
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\MainWindow.baml
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\MainWindow.g.cs
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\App.g.cs
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest_MarkupCompile.cache
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest.g.resources
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest.Properties.Resources.resources
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest.csproj.GenerateResource.Cache
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest.exe
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest.pdb
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\Vlc.DotNet.Core.dll
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\Vlc.DotNet.Core.Interops.dll
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\Vlc.DotNet.Forms.dll
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\bin\Debug\Vlc.DotNet.Wpf.dll
+C:\Users\Hatim\Documents\Visual Studio 2013\Projects\VLCTest\VLCTest\obj\Debug\VLCTest.csprojResolveAssemblyReference.cache
